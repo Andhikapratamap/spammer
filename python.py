@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 
-# Creator :  Asasin Hack
-# YT=Asasin Hack
-# Recode
+# Creator :  Andhika
+# Gatau jir badmood
+# Trah hacker wibu pro tzy
 
 from requests import ConnectionError
 from time import sleep
