@@ -10,15 +10,6 @@ import requests, sys, os, re, random
 
 os.system('clear')
 
-M = '\033[1;31m'
-H = '\033[1;32m'
-K = '\033[1;33m'
-U = '\033[1;34m'
-P = '\033[1;35m'
-C = '\033[1;36m'
-W = '\033[1;37m'
-A = '\033[90m'
-
 def MesinTik(text):
 	for x in text + '\n':
 		sys.stdout.write(x)
